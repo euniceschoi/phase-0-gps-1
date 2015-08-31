@@ -1,0 +1,10 @@
+1. *What git concepts were you struggling with prior to the GPS session?*
+  I was struggling with the git HEAD command. HEAD is still a little confusing but working through the GPS session, the concept was solidified and I think I get it now. HEAD seems to be the branch that you are currently working on and HEAD^ would be the last version of that specific head. I was also a little shaky with the git fetch and git merge commands. Sometimes I would get errors and could not figure out why the command was failing. It was a compatability issue and I learned a lot from pairing with Eunice.
+2. *What concepts were clarified during the GPS?*
+One concept that was clarified was working with a partner on the same repository. It was good to finally work on the same project at the same time because up until now I have not done that before. I worked with a partner but not on the same thing. It went smoothly and I learned about conflicts how to resolve them and how to fetch and merge properly.
+3. *What questions did you ask your pair and the guide?*
+I asked questions about pull requests and when you should delete a feature branch. I also asked some questions about when to fork a repository instead of cloning it.
+4. *What still confuses you about git?*
+I think I understand the basics of GitHub, the only thing that confuses me is when the remote repository and local repository get out of line, sometimes it's hard to figure out how to resolve the issue. I'll keep working to figure it out or go to office hours when it is happening again.
+5. *How was your first experience of pairing in a GPS?*
+The first experience of pairing in a GPS was great. It was like a peer pairing session, which are already very motivational, but there was a guide and mentor who could answer questions or let you know if you were headed in the right direction when you asked. It made the learning experience better and ultimately more satisfying.
